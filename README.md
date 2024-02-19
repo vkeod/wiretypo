@@ -1,2 +1,2 @@
-#2024 TeamLog ShowCase#
-wire typo!
+#2024 TeamLog ShowCase
+#wire typo
